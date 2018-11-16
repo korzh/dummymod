@@ -4,7 +4,9 @@
   "description": "TS modules and packages test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "author": "",
   "license": "ISC"
