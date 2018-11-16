@@ -1,0 +1,11 @@
+{
+  "name": "dummymod",
+  "version": "1.0.0",
+  "description": "TS modules and packages test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
