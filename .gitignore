@@ -62,3 +62,4 @@ typings/
 
 # binaries
 /lib
+/dist
