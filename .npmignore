@@ -1,4 +1,5 @@
 src
+lib/_bundle.js
 tsconfig.json
 tslint.json
 .prettierrc

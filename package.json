@@ -9,7 +9,6 @@
     "prepare": "npm run build",
     "webpack": "webpack",
     "bundle": "npm run build && npm run webpack"
-
   },
   "author": "",
   "license": "ISC",
