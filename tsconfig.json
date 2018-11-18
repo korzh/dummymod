@@ -6,7 +6,7 @@
       "outDir": "./lib",
       "strict": true
     },
-    "include": ["src"],
+    "include": ["./bundle.ts", "src"],
     "exclude": ["node_modules", "**/__tests__/*"]
   }
   
