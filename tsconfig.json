@@ -1,12 +1,12 @@
 {
     "compilerOptions": {
       "target": "es5",
-      "module": "es6",
+      "module": "ES6",
       "declaration": true,
       "outDir": "./lib",
       "strict": true
     },
-    "include": ["./bundle.ts", "src"],
+    "include": ["src"],
     "exclude": ["node_modules", "**/__tests__/*"]
   }
   
