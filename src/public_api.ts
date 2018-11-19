@@ -1,9 +1,6 @@
 
-import * as utils1_int from "./utils1" 
+import * as _utils1 from "./utils1" 
 
-export let utils1 = utils1_int
+export const utils1 = _utils1
 
 export * from './class1';
-
-
-
