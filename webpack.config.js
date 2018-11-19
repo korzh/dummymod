@@ -1,8 +1,9 @@
 const path = require('path')
 
 module.exports = {
-  entry: './lib/_bundle.js',
+  entry: './index.js',
   output: {
+    library: 'dummymod',
     filename: 'dummymod.all.js',
     path: path.resolve(__dirname, 'dist')
   }
